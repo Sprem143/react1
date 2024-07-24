@@ -235,7 +235,7 @@ function App() {
 
       <div className="container-fluid card2_container">
         <div className="row p-4">
-          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dr">
+          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dfjcac">
           <ScrollAnimation animateIn="zoomIn">
             <Card style={{ width: '18rem', padding: '10px' }}>
               <Card.Img variant="top" src="static\image\cd1.webp" height={300} />
@@ -251,7 +251,7 @@ function App() {
             </ScrollAnimation>
           </div>
 
-          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dr">
+          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dfjcac">
           <ScrollAnimation animateIn="zoomIn">
             <Card style={{ width: '18rem', padding: '10px' }}>
               <Card.Img variant="top" src="static\image\cd2.webp" height={300} />
@@ -267,7 +267,7 @@ function App() {
             </ScrollAnimation>
           </div>
 
-          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dr">
+          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dfjcac">
           <ScrollAnimation animateIn="zoomIn">
             <Card style={{ width: '18rem', padding: '10px' }}>
               <Card.Img variant="top" src="static\image\cd3.webp" height={300} />
@@ -283,7 +283,7 @@ function App() {
             </ScrollAnimation>
           </div>
 
-          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dr">
+          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dfjcac">
           <ScrollAnimation animateIn="zoomIn">
             <Card style={{ width: '18rem', padding: '10px' }}>
               <Card.Img variant="top" src="static\image\cd4.webp" height={300} />
@@ -299,7 +299,7 @@ function App() {
             </ScrollAnimation>
           </div>
 
-          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dr">
+          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dfjcac">
           <ScrollAnimation animateIn="zoomIn">
             <Card style={{ width: '18rem', padding: '10px' }}>
               <Card.Img variant="top" src="static\image\cd5.webp" height={300} />
@@ -315,7 +315,7 @@ function App() {
             </ScrollAnimation>
           </div>
 
-          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dr">
+          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dfjcac">
           <ScrollAnimation animateIn="zoomIn">
             <Card style={{ width: '18rem', padding: '10px' }}>
               <Card.Img variant="top" src="static\image\cd6.webp" height={300} />
@@ -330,7 +330,7 @@ function App() {
             </Card>
             </ScrollAnimation>
           </div>
-          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dr">
+          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dfjcac">
           <ScrollAnimation animateIn="zoomIn">
             <Card style={{ width: '18rem', padding: '10px' }}>
               <Card.Img variant="top" src="static\image\cd7.webp" height={300} />
@@ -345,7 +345,7 @@ function App() {
             </Card>
             </ScrollAnimation>
           </div>
-          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dr">
+          <div className="col-lg-3 col-md-4 col-sm-6 mb-3 dfjcac">
           <ScrollAnimation animateIn="zoomIn">
             <Card style={{ width: '18rem', padding: '10px' }}>
               <Card.Img variant="top" src="static\image\cd8.webp" height={300} />
