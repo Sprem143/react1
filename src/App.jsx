@@ -168,7 +168,7 @@ function App() {
           largest tourist nation by area and the second largest in terms of population  </p>
       </section>
 
-      <div className="container-fluid">
+      <div className="container-fluid p-4">
         <div className="row">
           <div className="col-lg-5 col-md-10">
             <ScrollAnimation animateIn="zoomIn" style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
